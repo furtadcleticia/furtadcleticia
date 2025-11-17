@@ -2,28 +2,28 @@
 
 - 🌱 Estudando Java
 <div>
-  <a href="https://github.com/tgalva0">
+  <a href="https://github.com/furtadcleticia">
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=tgalva0&include_all_commits=true&show_icons=true&theme=dark"
+      srcset="https://github-readme-stats.vercel.app/api?username=furtadcleticia&include_all_commits=true&show_icons=true&theme=dark"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=tgalva0&show_icons=true"
+      srcset="https://github-readme-stats.vercel.app/api?username=furtadcleticia&show_icons=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api?username=tgalva0&show_icons=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=furtadcleticia&show_icons=true" />
   </picture>
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tgalva0&include_all_commits=true&show_icons=true&theme=dark"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=furtadcleticia&include_all_commits=true&show_icons=true&theme=dark"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tgalva0&layout=donut-vertical&show_icons=true"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=furtadcleticia&layout=donut-vertical&show_icons=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api?username=tgalva0&show_icons=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=furtadcleticia&show_icons=true" />
   </picture>
 </div>
 
