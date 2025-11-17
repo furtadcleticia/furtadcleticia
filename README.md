@@ -6,19 +6,6 @@
   <a href="https://github.com/furtadcleticia">
     <picture>
       <source
-        srcset="https://github-readme-stats.vercel.app/api?username=furtadcleticia&include_all_commits=true&show_icons=true&theme=highcontrast&bg_color=191724&text_color=e0b6b2&icon_color=ff79c6&title_color=ffb86c&border_color=f8c4c4"
-        media="(prefers-color-scheme: dark)"
-      />
-      <source
-        srcset="https://github-readme-stats.vercel.app/api?username=furtadcleticia&show_icons=true&theme=pink"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      />
-      <img src="https://github-readme-stats.vercel.app/api?username=furtadcleticia&show_icons=true&theme=pink" alt="Estatísticas do GitHub" />
-    </picture>
-  </a>
-  <a href="https://github.com/furtadcleticia">
-    <picture>
-      <source
         srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=furtadcleticia&layout=compact&show_icons=true&theme=highcontrast&bg_color=191724&text_color=e0b6b2&icon_color=ff79c6&title_color=ffb86c&border_color=f8c4c4"
         media="(prefers-color-scheme: dark)"
       />
