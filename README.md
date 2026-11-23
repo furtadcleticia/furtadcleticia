@@ -1,6 +1,6 @@
 ## Olá, eu sou a Letícia! 💖
 
-- 🌱 Estudando **Java**
+- 🌱 Estudando **Python aplicado a Dados**
 
 <div align="center">
   <a href="https://github.com/furtadcleticia">
